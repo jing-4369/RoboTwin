@@ -26,3 +26,6 @@ envs/curobo/*
 
 /*.json*
 /*.txt
+
+# assets/objects/objaverse/pencil is deleted from assets/objects and I keep it in ./ for future use.
+pencil/* 
