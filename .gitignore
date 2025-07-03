@@ -29,3 +29,7 @@ envs/curobo/*
 
 # assets/objects/objaverse/pencil is deleted from assets/objects and I keep it in ./ for future use.
 pencil/* 
+
+policy/pi0/processed_data/*
+
+policy/pi0/training_data/*
